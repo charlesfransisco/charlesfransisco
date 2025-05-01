@@ -43,12 +43,6 @@ Thanks for stopping by! 😊 Feel free to explore my repositories and connect wi
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/charlesfransisco/charlesfransisco/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charlesfransisco/charlesfransisco/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charlesfransisco/charlesfransisco/output/pacman-contribution-graph.svg">
