@@ -2,7 +2,7 @@
 
 ![charles fransisco](img/profile.png)
 
-I'm **Charles Francisco**, a passionate developer who loves building innovative solutions and exploring new technologies. 🚀
+I'm **Charles Francisco**, a passionate developer who loves building innovative solutions and exploring new technologies. 🚀🎶
 
 
 ### 🌟 About Me
