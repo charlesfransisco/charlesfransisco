@@ -28,8 +28,6 @@ I'm **Charles Francisco**, a passionate developer who loves building innovative 
 - **Tools:** Git, Cursor, VS Code, Docker
 - **Databases:** MySQL, MongoDB, PostgreSQL
 
-#### 📊 GitHub Stats
-![Charles's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesfransisco&show_icons=true&theme=radical)
 
 #### 🌐 Connect with Me
 
