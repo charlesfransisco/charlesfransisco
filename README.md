@@ -42,11 +42,3 @@ Thanks for stopping by! 😊 Feel free to explore my repositories and connect wi
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charlesfransisco/charlesfransisco/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charlesfransisco/charlesfransisco/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charlesfransisco/charlesfransisco/output/pacman-contribution-graph.svg">
-</picture>
-
-###
