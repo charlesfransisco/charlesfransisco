@@ -1,11 +1,12 @@
 ##### Hi there 👋 Welcome to My GitHub Profile!
 ![charles fransisco](img/github-header-image.png)
 
-I'm **Charles Francisco**, a passionate developer who loves building innovative solutions and exploring new technologies. 🚀🎶
+I'm **Charles Francisco**, a passionate developer who loves building innovative solutions and exploring new technologies, Innovation, and Sharing about tech. 🚀🎶
 <!-- ![charles fransisco](img/profile.png) -->
 
 #### 🌟 About Me
-- 🎓 I’m a student at **National Taipei University of Technology (NTUT)**, majoring in **Information Financial Management**.
+- I'm still student at NTNU for Master degree, Majoring in GBS, I hope I can share my imagination via GitHub, Glad to get u feedback guys.
+- 🎓 Graduated Information Financial Management at NTUT Bachelor program
 - 🔭 I’m currently working on **innovative web and mobile app projects, focusing on leveraging advanced technologies to enhance user experiences**.
 -🎓 I’ve gained proficiency in **Python and Java through my coursework, and I’m currently expanding my skills independently by learning HTML, CSS, JavaScript, and React.**
 - 👯 I’m looking to collaborate on **open-source projects** and **community-driven initiatives**.
@@ -36,9 +37,3 @@ I'm **Charles Francisco**, a passionate developer who loves building innovative 
 - **GitHub:** [charlesfransisco](https://github.com/charlesfransisco)
 
 Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me.
-### Play Games With Me
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesfransisco&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
