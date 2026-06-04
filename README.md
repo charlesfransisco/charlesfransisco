@@ -1,37 +1,88 @@
-##### Hi there 👋 Welcome to My GitHub Profile!
-![charles fransisco](img/github-header-image.png)
+# Hi, I'm Charles Fransisco 👋
 
-I'm **Charles Francisco**, a passionate developer who loves building innovative solutions and exploring new technologies, Innovation, and Sharing about tech. 🚀🎶
-<!-- ![charles fransisco](img/profile.png) -->
+### Master's Student in Global Business Strategy | AI, Data Analysis & Business Automation
 
-#### 🌟 About Me
-- I'm still student at NTNU for Master degree, Majoring in GBS, I hope I can share my imagination via GitHub, Glad to get u feedback guys.
-- 🎓 Graduated Information Financial Management at NTUT Bachelor program
-- 🔭 I’m currently working on **innovative web and mobile app projects, focusing on leveraging advanced technologies to enhance user experiences**.
--🎓 I’ve gained proficiency in **Python and Java through my coursework, and I’m currently expanding my skills independently by learning HTML, CSS, JavaScript, and React.**
-- 👯 I’m looking to collaborate on **open-source projects** and **community-driven initiatives**.
-- 🤔 I’m looking for help with **scaling distributed systems**.
-- 💬 Ask me about **web development, backend systems, or anything tech-related**.
-- 📫 How to reach me: **[sisco8771@gmail.com](mailto:charles@example.com)** or **[LinkedIn](https://linkedin.com/in/charles-fransisco)**.
-- 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: **I once built a website entirely using only Notepad!**
+I am currently pursuing a Master's degree in **Global Business Strategy at National Taiwan Normal University (NTNU)**, with a background in **Information and Financial Management from National Taipei University of Technology (NTUT)**.
 
-#### 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=github,figma,mysql&theme=light)](https://skillicons.dev)
+I am interested in building practical digital solutions that combine **artificial intelligence, data analysis, automation, and business strategy**, particularly in the areas of hospitality technology, financial information systems, and digital services.
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
+---
 
-- **Tools:** Git, Cursor, VS Code, Docker
-- **Databases:** MySQL, MongoDB, PostgreSQL
+## 🔍 Current Focus
 
+- Applying AI and data analysis to business problems
+- Exploring automation workflows using Python and n8n
+- Developing digital solutions for hospitality and service operations
+- Building practical web applications and project portfolios
+- Researching innovation, digital transformation, and startup strategy
 
-#### 🌐 Connect with Me
+---
 
-- **X(Twitter):** [@charles_dev](https://x.com/xiaopen39244488)
-- **GitHub:** [charlesfransisco](https://github.com/charlesfransisco)
+## 🚀 Featured Projects
 
-Thanks for stopping by! 😊 Feel free to explore my repositories and connect with me.
+### Customer Message Categorization and Analysis
+A Python-based text analysis project for categorizing and analyzing customer service messages, with applications in hospitality service improvement.
+
+**Tools:** Python, pandas, NLP, LDA, jieba, NLTK  
+🔗 [View Repository](https://github.com/charlesfransisco/Customer-Message-Categorization-and-Analysis)
+
+### Weather App and AI Travel Recommendations
+A web application that combines weather information with AI-generated travel recommendations.
+
+**Tools:** JavaScript, Weather API, Groq AI API  
+🔗 [View Repository](https://github.com/charlesfransisco/Weather-app-and-Travel-Recomendations)
+
+### Personal Portfolio Website
+A personal website for presenting my education, experience, skills, and project portfolio.
+
+**Tools:** HTML, CSS, JavaScript, Vercel  
+🔗 [View Repository](https://github.com/charlesfransisco/MyPersonalweb)  
+🌐 [Live Website](https://my-personalweb-blush.vercel.app/)
+
+---
+
+## 💼 Experience Highlights
+
+- Conducted multilingual AI conversation testing for hospitality-related service scenarios
+- Reviewed Indonesian-language AI responses for clarity, accuracy, and natural expression
+- Explored customer message categorization and service data analysis using Python
+- Built automation and AI workflow experiments using n8n, Docker, and Temporal
+- Developed academic and practical projects related to financial information systems and digital business
+
+---
+
+## 🛠️ Skills and Tools
+
+**Programming & Data**  
+Python, pandas, NLP, JavaScript, HTML, CSS, React
+
+**Automation & Development Tools**  
+n8n, Docker, Temporal, Git, GitHub, VS Code
+
+**Databases & Analytics**  
+PostgreSQL, MySQL, MongoDB, KNIME
+
+**Business Interests**  
+Business Strategy, Digital Transformation, Financial Information Systems, Hospitality Technology
+
+---
+
+## 🎓 Education
+
+**National Taiwan Normal University (NTNU)**  
+Master's Program in Global Business Strategy
+
+**National Taipei University of Technology (NTUT)**  
+Bachelor's Degree in Information and Financial Management
+
+---
+
+## 📫 Connect with Me
+
+- GitHub: [charlesfransisco](https://github.com/charlesfransisco)
+- Portfolio: [my-personalweb-blush.vercel.app](https://my-personalweb-blush.vercel.app/)
+- LinkedIn: Add your LinkedIn link here
+
+---
+
+> I am continuously learning and building practical technology solutions that connect AI, data, and business needs.
