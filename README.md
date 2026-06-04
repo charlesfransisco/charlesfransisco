@@ -81,7 +81,7 @@ Bachelor's Degree in Information and Financial Management
 
 - GitHub: [charlesfransisco](https://github.com/charlesfransisco)
 - Portfolio: [my-personalweb-blush.vercel.app](https://my-personalweb-blush.vercel.app/)
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: www.linkedin.com/in/charles-fransisco
 
 ---
 
