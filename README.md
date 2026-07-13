@@ -14,7 +14,7 @@ I am interested in building practical digital solutions that combine **artificia
 - Exploring automation workflows using Python and n8n
 - Developing digital solutions for hospitality and service operations
 - Building practical web applications and project portfolios
-- Researching innovation, digital transformation, and startup strategy
+
 
 ---
 
