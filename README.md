@@ -67,15 +67,6 @@ Business Strategy, Digital Transformation, Financial Information Systems, Hospit
 
 ---
 
-## 🎓 Education
-
-**National Taiwan Normal University (NTNU)**  
-Master's Program in Global Business Strategy
-
-**National Taipei University of Technology (NTUT)**  
-Bachelor's Degree in Information and Financial Management
-
----
 
 ## 📫 Connect with Me
 
