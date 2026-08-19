@@ -54,16 +54,18 @@ A personal website for presenting my education, experience, skills, and project 
 ## 🛠️ Skills and Tools
 
 **Programming & Data**  
-Python, pandas, NLP, JavaScript, HTML, CSS, React
+Python, pandas, NLP, JavaScript, HTML, CSS
 
 **Automation & Development Tools**  
-n8n, Docker, Temporal, Git, GitHub, VS Code
+n8n, Docker, Git, GitHub, VS Code
 
 **Databases & Analytics**  
-PostgreSQL, MySQL, MongoDB, KNIME
+PostgreSQL, MySQL, Supabase, KNIME
 
 **Business Interests**  
 Business Strategy, Digital Transformation, Financial Information Systems, Hospitality Technology
+**Visualisasi data**  
+Power Bi
 
 ---
 
