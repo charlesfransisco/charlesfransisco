@@ -64,6 +64,7 @@ PostgreSQL, MySQL, Supabase, KNIME
 
 **Business Interests**  
 Business Strategy, Digital Transformation, Financial Information Systems, Hospitality Technology
+
 **Visualisasi data**  
 Power Bi
 
